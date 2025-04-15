@@ -30,4 +30,8 @@ Languages and Tools
 
 ![egeaydn's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=egeaydn&theme=react&show_icons=true&hide_border=true&layout=compact)
 
+![egeaydn's GitHub stats](https://github-readme-stats.vercel.app/api?username=egeaydn&hide=contribs,prs) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=egeaydn&layout=compact&hide_progress=true)](https://github.com/egeaydn/github-readme-stats)
+
 
