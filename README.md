@@ -24,7 +24,7 @@
 
 Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,dotnet,git,github,vite,vscode,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,dotnet,git,github,vite,vscode,nodejs,react,cs,js,mysql,nextjs,npm,php,replit,stackoverflow)](https://skillicons.dev)
 
 ![egeaydn's Stats](https://github-readme-stats.vercel.app/api?username=egeaydn&theme=react&show_icons=true&hide_border=true&count_private=true)
 
