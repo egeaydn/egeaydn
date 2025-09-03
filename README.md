@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Android , MEARN**
 
-- 📫 How to reach me egeaydinn31@gmail.com 
+- 📫 How to reach me egeaydin@ogr.iu.edu.tr
 
 - ⚡ Fun fact **I am Funny**
 
