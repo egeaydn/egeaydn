@@ -15,7 +15,7 @@ I study **Computer Programming at Istanbul University** and completed an intensi
 Over the past 3 years, I have worked on multiple real-world projects ranging from e-commerce platforms to feature-flag systems and school management software.
 
 ### Selected Technologies
-- **Frontend:** React, Next.js (App Router), TypeScript, Tailwind CSS, Vite
+- **Frontend:** React, Next.js (App Router), TypeScript, Tailwind CSS, Vite, ReactNative, Expo
 - **Backend:** ASP.NET Core, .NET 8, Entity Framework Core, REST APIs
 - **Databases:** MS SQL Server, PostgreSQL, Firebase, Supabase
 - **Tools & DevOps:** Git, GitHub, Visual Studio, VS Code, Postman, EXAMPP, Google Antigravity
