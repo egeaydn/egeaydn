@@ -1,7 +1,7 @@
 
 Hi 👋 I'm Ege Aydın
 
-Frontend-focused Software Developer with a strong background in .NET and modern web technologies.
+Full-stack Software Developer, frontend-focused, with a strong background in .NET and modern web technologies.
 I build scalable, real-world web applications by combining clean backend architecture with modern frontend experiences.
 
 ### What I Do
@@ -18,11 +18,19 @@ Over the past 3 years, I have worked on multiple real-world projects ranging fro
 - **Frontend:** React, Next.js (App Router), TypeScript, Tailwind CSS, Vite, ReactNative, Expo
 - **Backend:** ASP.NET Core, .NET 8, Entity Framework Core, REST APIs
 - **Databases:** MS SQL Server, PostgreSQL, Firebase, Supabase
-- **Tools & DevOps:** Git, GitHub, Visual Studio, VS Code, Postman, EXAMPP, Google Antigravity
+- **Tools & DevOps:** Git, GitHub, Visual Studio, VS Code, Postman, XAMPP, Google Antigravity
 
 ### How I Think
 I value clean architecture, maintainable code, and solving real problems.
 Rather than focusing only on tools, I care about understanding **why** a system is built the way it is and how it scales in real-world scenarios.
+
+### Featured Projects
+- **[Prodora](https://github.com/egeaydn/Prodora)**: Admin panel for product management (add, edit, categorize), built with .NET 8 and a layered architecture.
+- **[Bookly-Api](https://github.com/egeaydn/Bookly-Api)**: Mini reservation REST API with user and reservation management, built with .NET.
+- **[TravelFlow](https://github.com/egeaydn/TravelFlow)**: Multilingual travel blog platform with Next.js (App Router), Tailwind CSS, Supabase and next-intl.
+- **[Nomisma](https://github.com/egeaydn/ExchangeRate-Mobile-App-Nomisma)**: Real-time exchange rate mobile app with React Native, Expo, Redux Toolkit and Chart.js.
+- **[RentACar](https://github.com/egeaydn/RentACar---Final)**: Car rental management solution for businesses and customers, built with C#.
+- **[HastaneDB](https://github.com/egeaydn/HastaneDB-MsSql-Project)**: Hospital management database modeled on Microsoft SQL Server.
 
 ### Currently
 - Improving my English for international software development roles
@@ -54,10 +62,9 @@ Rather than focusing only on tools, I care about understanding **why** a system 
 
 📫 Reach me via **LinkedIn** or check out my pinned projects below.
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ege-ayd%C4%B1n-156704317/)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/egeaydin34/)
 <p align="left">
 <a href="https://twitter.com/EgeAydn75" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"  height="30" width="40" /></a>
-<a href="https://www.instagram.com/egeaydnn/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"  height="30" width="40" /></a>
 </p>
 
 ![egeaydn's Stats](https://github-readme-stats.vercel.app/api?username=egeaydn&theme=react&show_icons=true&hide_border=true&count_private=true)
