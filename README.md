@@ -63,9 +63,6 @@ Rather than focusing only on tools, I care about understanding **why** a system 
 📫 Reach me via **LinkedIn** or check out my pinned projects below.
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/egeaydin34/)
-<p align="left">
-<a href="https://twitter.com/EgeAydn75" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"  height="30" width="40" /></a>
-</p>
 
 ![egeaydn's Stats](https://github-readme-stats.vercel.app/api?username=egeaydn&theme=react&show_icons=true&hide_border=true&count_private=true)
 
